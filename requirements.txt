@@ -4,3 +4,4 @@ matplotlib
 tensorflow[and-cuda]
 ipympl
 scikit-learn
+pandas
