@@ -5,3 +5,4 @@ tensorflow[and-cuda]
 ipympl
 scikit-learn
 pandas
+tabulate
