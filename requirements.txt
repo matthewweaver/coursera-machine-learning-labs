@@ -6,3 +6,8 @@ ipympl
 scikit-learn
 pandas
 tabulate
+gym
+imageio
+statsmodels
+pyvirtualdisplay
+gym[box2d]==0.24.0
